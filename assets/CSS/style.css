@@ -1,0 +1,33 @@
+* {
+    font-family: 'Roboto Slab',
+    serif;
+}
+img {
+    width: 100%;
+    height: 300px;
+    opacity: 0.7;
+}
+.train-image {
+    position: relative;
+}
+.title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 34px;
+    background: black;
+    color: white;
+    padding: 0 10px 0 10px;
+    border-radius: 15px;
+}
+.panel-heading {
+    background: black;
+    color: white;
+    margin-top: 10px;
+    border-radius: 15px;
+    padding: 0 10px 0 10px;
+
+}
+
+
